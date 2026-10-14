@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Dream Cake",
+    "type": "Cake",
+    "price": 699,
+    "eggless": true,
+    "dietaryTags": ["Eggless"],
+    "description": "Rich chocolate cake with creamy frosting.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Strawberry Bliss",
+    "type": "Cake",
+    "price": 749,
+    "eggless": true,
+    "dietaryTags": ["Eggless"],
+    "description": "Soft vanilla cake layered with fresh strawberry cream.",
+    "image": "https://cdn.shopaccino.com/joyful-treats/products/2024-aug-27-joyful-artisan-treats1187-147037073471950_l.jpg?v=704"
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Chip Cookies",
+    "type": "Cookie",
+    "price": 199,
+    "eggless": false,
+    "dietaryTags": ["Classic"],
+    "description": "Freshly baked cookies filled with delicious chocolate chips.",
+    "image": "https://fionateagan.com/images/chocolate-chip-cookies.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fudgy Brownie",
+    "type": "Brownie",
+    "price": 249,
+    "eggless": true,
+    "dietaryTags": ["Eggless"],
+    "description": "Soft and fudgy chocolate brownie.",
+    "image": "https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Celebration Cake",
+    "type": "Cake",
+    "price": 649,
+    "eggless": true,
+    "dietaryTags": ["Eggless"],
+    "description": "Light vanilla cake perfect for birthdays and celebrations.",
+    "image": "https://mamamikes.co.ke/113-large_default/mamamikes-birthday-cake-1-kg-vanilla.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Red Velvet Cake",
+    "type": "Cake",
+    "price": 799,
+    "eggless": false,
+    "dietaryTags": ["Classic"],
+    "description": "Soft red velvet cake with smooth cream cheese frosting.",
+    "image": "https://cdn.store-assets.com/s/615752/i/20468903.jpg?width=1024"
+  },
+  {
+    "id": 7,
+    "name": "Butter Cookies",
+    "type": "Cookie",
+    "price": 179,
+    "eggless": true,
+    "dietaryTags": ["Eggless"],
+    "description": "Crispy and buttery cookies with a delicate sweetness.",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Double Chocolate Cookies",
+    "type": "Cookie",
+    "price": 229,
+    "eggless": true,
+    "dietaryTags": ["Eggless", "Chocolate"],
+    "description": "Rich chocolate cookies loaded with chocolate chips.",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Classic Chocolate Brownie",
+    "type": "Brownie",
+    "price": 219,
+    "eggless": false,
+    "dietaryTags": ["Classic"],
+    "description": "Classic chocolate brownie with a rich, fudgy center.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Walnut Brownie",
+    "type": "Brownie",
+    "price": 279,
+    "eggless": true,
+    "dietaryTags": ["Eggless", "Nuts"],
+    "description": "Fudgy chocolate brownie topped with crunchy walnuts.",
+    "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?auto=format&fit=crop&w=700&q=80"
+  }
+]
