@@ -28,9 +28,6 @@ export type BakerySpecial = {
   image: string;
 };
 
-const PLACEHOLDER_IMAGE =
-  "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=700&q=80";
-
 export const bakerySpecials: BakerySpecial[] = [
   { id: 101, name: "Veg Pizza", category: "Savoury Bites", description: "Fresh vegetable pizza with a cheesy baked crust.", price: 199, image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=700&q=80" },
   { id: 102, name: "Veg Burger", category: "Quick Bites", description: "Crispy vegetable patty with fresh salad and sauces.", price: 149, image: "https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&w=700&q=80" },

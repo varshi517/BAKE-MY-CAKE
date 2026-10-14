@@ -1,4 +1,3 @@
-import React from "react";
 
 export type InsightsProps = { mostPickedType: string; averagePickPrice: number; pickedCount: number; totalCount: number; pickPercentage: number; };
 

@@ -1,5 +1,4 @@
-import React from "react";
-import type { Treat, CartItem, BakerySpecial } from "./bakeryData";
+import type { CartItem} from "./bakeryData";
 
 
 export type SweetBasketProps = {

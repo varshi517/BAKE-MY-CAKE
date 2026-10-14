@@ -1,5 +1,5 @@
 import type { Dispatch, SetStateAction } from "react";
-import type { Treat, CartItem, BakerySpecial } from "./bakeryData";
+import type { Treat } from "./bakeryData";
 
 
 const PLACEHOLDER_IMAGE = "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=700&q=80";
